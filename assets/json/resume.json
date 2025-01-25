@@ -129,27 +129,13 @@
       "name": "Programming Languages",
       "level": "Skilled",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Ruby",
-        "Javascript",
-        "HTML/CSS",
-        "Python",
-        "C",
-        "SQL"
-      ]
+      "keywords": ["Ruby", "Javascript", "HTML/CSS", "Python", "C", "SQL"]
     },
     {
       "name": "Technologies/Frameworks",
       "level": "Skilled",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Ruby on Rails",
-        "React",
-        "Git",
-        "Docker",
-        "RSpec",
-        "Sidekiq"
-      ]
+      "keywords": ["Ruby on Rails", "React", "Git", "Docker", "RSpec", "Sidekiq"]
     }
   ],
   "languages": [
