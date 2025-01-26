@@ -5,6 +5,7 @@ date: 2024-12-08 16:11:00-0800
 inline: false
 related_posts: false
 ---
+
 I'm honestly not sure what to write at all, haha. I feel that my Japan trip has wayy too much private stuff and I don't feel comfortable at all sharing that publicly. But still, I need to find something to write for these announcements! I guess I could jot down major life events and put them into news for the hell of it?
 
 ---
