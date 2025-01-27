@@ -28,9 +28,9 @@ As for my **background**, it goes something like this
   - Authoring Ruby on Rails tutorials
 - Soon after, I finally completed my Bachelor's degree in Computer Science in 2023
   - As I was finishing up my degree, I also spent a lot of time contributing to open-source-- mainly GitLab as I really enjoyed their engineering processes!
-- Then I started working for a startup called EvenHerd, where I developed an internal tool to manages and analyze stocks in 2024
+- Then in 2024, I started working for a startup called EvenHerd, where I developed an internal tool that manages and analyzes stocks
 - Later that year, I got a job revitalizing a website for a company called Infusense. It was actually a super interesting project because
-  - I got to work with the EmStat Pico module and had to dive into their documentation
+  - I got to work with the EmStat Pico module and had to dive deep into their documentation
   - Utilizing the Web Serial API and dealing with its intricacies was a novel experience
   - The project I inherited was completely nonfunctional with zero documentation, tests, or coding standards
 - Now I'm hoping to begin my Master's program at Georgia Tech relatively soon!
