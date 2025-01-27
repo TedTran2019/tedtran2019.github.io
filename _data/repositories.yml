@@ -1,14 +1,19 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - TedTran2019
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - TedTran2019/catris
+  - TedTran2019/acidcamp
+  - TedTran2019/WGU-C950
+  - TedTran2019/WGU-C195
+  - TedTran2019/bloom_filter
+  - TedTran2019/AA_2022
+  - TedTran2019-Interview-Prep/Neetcode-2025
+  - TedTran2019-Qwasar/my-sqlite3
+  - TedTran2019-Misc/advent_of_code_2019
+  - TedTran2019-42/lem-in
+  - TedTran2019-42/Bistromatic
+  - TedTran2019-42/ft_printf
+  - TedTran2019-42/ls
