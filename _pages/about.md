@@ -18,6 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 As for my **background**, it goes something like this
+
 - I was introduced to programming at an awesome cult-like school funded by an eccentric French billionaire called 42 all the way back in 2018!
   - It was one of the best times of my life, and I made a lot of lifelong friends as I completed various projects in the C programming language
 - Upon returning from 42, I tried out a bunch of different avenues in life but none of them gave me the same spark as coding
